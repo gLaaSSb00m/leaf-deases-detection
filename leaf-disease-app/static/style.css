@@ -1,0 +1,36 @@
+
+body {
+    background-image: url('body.gif');
+    background-size: contain;
+}
+
+
+label
+{
+    font-size: 20px;
+    color: green;
+}
+btn .btn-primary
+{
+    background-color: #4CAF50;
+}
+input#image.form-control
+{
+    background-color: #65e26a;
+}
+select#leaf_type.form-select
+{
+    background-color: #65e26a;
+}
+p.a
+{
+    font-size: 30px;
+}
+li.b
+{
+    font-size: 30px;
+}
+label
+{
+    font-size: 30px;
+}
